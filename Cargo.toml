@@ -1,0 +1,10 @@
+[package]
+name = "alice-http"
+version = "1.0.0"
+edition = "2021"
+authors = ["Moroya Sakamoto"]
+license = "MIT"
+description = "Pure Rust HTTP/1.1 and HTTP/2 parser and framework"
+
+[lib]
+crate-type = ["rlib"]
