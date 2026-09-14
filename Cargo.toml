@@ -3,7 +3,7 @@ name = "alice-http"
 version = "1.0.0"
 edition = "2021"
 authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
-license = "AGPL-3.0"
+license = "AGPL-3.0-or-later"
 description = "Pure Rust HTTP/1.1 and HTTP/2 parser and framework"
 
 [lib]
