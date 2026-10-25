@@ -10,7 +10,7 @@ Pure Rust HTTP/1.1 and HTTP/2 parser and framework for the ALICE ecosystem. Prov
 |------|-------|
 | **Crate** | `alice-http` |
 | **Version** | 1.0.0 |
-| **License** | AGPL-3.0 |
+| **License** | LicenseRef-Proprietary |
 | **Edition** | 2021 |
 
 ## Features
